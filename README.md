@@ -14,7 +14,7 @@ Calculate its average ping with the server.
 Establish a scale m/ms by dividing the distance between the server and the IP and the ping.
 Multiply the ping of the first IP with the scale.
 Trace a circle on a map where the center is the server, and the radius is the previous result.
-The location of the IP will now logically be on the diameter of the circle.
+The location of the IP will now logically be on the perimeter of the circle.
 
 # Problems
 First of all, the ping is very unstable because it depends on the traffic of the server, the internet connection of the box, and more factors.
